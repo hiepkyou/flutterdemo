@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877976066846",
+    "firebase_url": "https://flutterkyouapp.firebaseio.com",
+    "project_id": "flutterkyouapp",
+    "storage_bucket": "flutterkyouapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877976066846:android:bc806d6c4209389fcd470f",
+        "android_client_info": {
+          "package_name": "com.kyou.flutter_kyou_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877976066846-5j967romnc2gmqsidojpg2jt4oec8r0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdcCZKxM8UvZBQhhZGWa_oZp0PxdxwMtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877976066846-5j967romnc2gmqsidojpg2jt4oec8r0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
